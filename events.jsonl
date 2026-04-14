@@ -1,3 +1,0 @@
-{"event": "login", "user_id": 1}
-{"event": "logout", "user_id": 1}
-{"event": "purchase", "user_id": 2, "item": "book"}
